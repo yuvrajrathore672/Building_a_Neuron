@@ -2,5 +2,6 @@
 
 # Deep Learning Practice
 
-In this we are creating our Neuron (Perceptron) by help of pytorch.
+1) Building a Neuron (code)
+2) ANN Model for Regression Problem
 
